@@ -5,7 +5,7 @@ In this project, I will help Mint Classics Company analyze data in a relational 
 1. Find which warehouse to eliminate.
 2. Find which product to eliminate.
 3. Provide suggestions and recommendations.
-## Milestone
+## Milestones
 ### 1. Calculate warehouses' quantity in stock and remaining space:
 - Identify the number of products that each warehouse is able to store more before exceeding 80% of its capacity.
 
@@ -42,7 +42,7 @@ In this project, I will help Mint Classics Company analyze data in a relational 
   => I suggest gradually eliminate these products through running a flash sale on these products or a discount for first-time customers.
   
   => To best accomplish this, I recommend slowly decreasing the price, being sure to remain above a 15% profit margin (average profit margin for this industry) until the products are eliminated.
-## Solution
+## Solutions
 By using MySQL Workbench, I concluded that the warehouse that needs to be eliminated is the South warehouse. Most of this warehouse's products should be stored in the West warehouse, and the remaining products can be stored in either North or East warehouse.
 
 Moreover, I concluded that two products with the code S10_4962 and S18_1889 should be eliminated. Considering these two products, their profit margin and ordered quantity is low while consuming large space in warehouses.
