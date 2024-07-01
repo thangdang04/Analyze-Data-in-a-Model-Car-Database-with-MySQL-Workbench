@@ -1,4 +1,4 @@
-# Data analysis project on the Mint Classics Company database
+# Data analysis project on Mint Classics Company database
 ## Overview
 In this project, I will help Mint Classics Company analyze data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility. My suggestions and recommendations will be used to reorganize or reduce inventory, while still maintaining timely service to their customers.
 ## Goals
